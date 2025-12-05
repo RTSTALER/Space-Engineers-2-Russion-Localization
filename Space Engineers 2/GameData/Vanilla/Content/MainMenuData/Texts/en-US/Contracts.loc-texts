@@ -1,7 +1,7 @@
 {
   "LocationSpace": "Космос",
-  "LocationVerdure": "Зелень",
-  "LocationKemik": "Кемик",
+  "LocationVerdure": "VERDURE",
+  "LocationKemik": "KEMIK",
   "SpaceIntroductionTitle": "Место, которое можно назвать домом",
   "SpaceIntroductionDesc": "Кто-то начал строить аванпост на ближайшем астероиде. Если вы достроите несколько важных блоков, он ваш!",
   "SpaceAbandonedResearchOutpostRepairTitle": "Инженерно-заброшенный исследовательский аванпост",
