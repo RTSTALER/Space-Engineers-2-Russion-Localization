@@ -136,7 +136,7 @@
   "RenameMarkerDialogContent": "Пожалуйста, введите новое название маркера",
   "DeleteMarkerDialogTitle": "Удалить маркер",
   "DeleteMarkerDialogContent": "Вы уверены, что хотите удалить этот маркер?",
-  "ContractCompletedNotificationTitle": "Контракт заключен!",
+  "ContractCompletedNotificationTitle": "Контракт завершен!",
   "ContractCompletedNotificationContent": "Достигнут прогресс в колонизации!",
   "UserMessageFanfareTitle": "{Title}",
   "UserMessageFanfareContent": "{Content}",
