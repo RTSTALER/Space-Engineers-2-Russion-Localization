@@ -64,7 +64,7 @@
   "IntegrityScreenFunctional": "Функционирует",
   "IntegrityScreenUnfunctional": "Не функционирует",
   "IntegrityScreenProjection": "Проекция",
-  "IntegrityScreenBackpackBuilding": "Создание рюкзака",
+  "IntegrityScreenBackpackBuilding": "Строительство из рюкзака",
   "IntegrityScreenCraftingComponents": "Создание компонентов...",
   "GrinderToolPrimary": "Резать",
   "WelderToolPrimary": "Сварной шов",
